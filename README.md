@@ -59,9 +59,11 @@
     </div>
 
     <div class="project">
-      <h3><a href="modelchecking.html">Pulse Pirates Healthcare Appointment Platform</a></h3>
-      <p>Uncertainty quantification via Bayesian Model Averaging and Bayesian Credible Intervals in probabilistic biological models.</p>
-    </div>
+  <h3><a href="pulsepirates.html">Pulse Pirates — Healthcare Scheduling System</a></h3>
+  <p>AGILE team project where I led backend development, database creation, and backend–frontend integration. 
+     Implemented appointment scheduling logic, resolved API communication issues, and performed extensive testing.</p>
+</div>
+
   </div>
 
   <h2>Links</h2>
