@@ -59,10 +59,10 @@
     </div>
 
     <div class="project">
-  <h3><a href="pulsepirates.html">Pulse Pirates — Healthcare Scheduling System</a></h3>
-  <p>AGILE team project where I led backend development, database creation, and backend–frontend integration. 
-     Implemented appointment scheduling logic, resolved API communication issues, and performed extensive testing.</p>
-</div>
+      <h3><a href="pulsepirates.html">Pulse Pirates — Healthcare Scheduling System</a></h3>
+      <p>AGILE team project where I led backend development, database creation, and backend–frontend          integration. Implemented appointment scheduling logic, resolved API communication issues,            and performed extensive testing.</p>
+    </div>
+
 
   </div>
 
