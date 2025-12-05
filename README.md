@@ -57,6 +57,11 @@
       <h3><a href="modelchecking.html">DTMC/CTMC Statistical Model Checking</a></h3>
       <p>Uncertainty quantification via Bayesian Model Averaging and Bayesian Credible Intervals in probabilistic biological models.</p>
     </div>
+
+    <div class="project">
+      <h3><a href="modelchecking.html">Pulse Pirates Healthcare Appointment Platform</a></h3>
+      <p>Uncertainty quantification via Bayesian Model Averaging and Bayesian Credible Intervals in probabilistic biological models.</p>
+    </div>
   </div>
 
   <h2>Links</h2>
